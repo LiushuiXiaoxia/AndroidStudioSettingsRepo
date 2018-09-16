@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Gradle Build (Balloon)" shouldLog="false" />
+  </component>
+</application>
