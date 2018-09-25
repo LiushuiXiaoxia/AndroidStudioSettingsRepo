@@ -1,11 +1,6 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CMakeSettings">
-        <configurations>
-          <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
-        </configurations>
-      </component>
       <component name="CompilerConfiguration">
         <option name="DEFAULT_COMPILER" />
         <wildcardResourcePatterns>
@@ -37,11 +32,23 @@
         <option name="projectSyncType">
           <map>
             <entry key="$USER_HOME$/workspace/Happy/DS" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/Happy/smart-city-admin-master" value="PREVIEW" />
             <entry key="$USER_HOME$/workspace/android_demo/AndroidModuleDemo" value="PREVIEW" />
-            <entry key="$USER_HOME$/workspace/github/QNRTC-Android/QNDroidRTCDemo" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/github/ARouter" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/github/AndroidModular" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/github/Router" value="PREVIEW" />
             <entry key="$USER_HOME$/workspace/github/WMRouter" value="PREVIEW" />
-            <entry key="$USER_HOME$/workspace/github/XiaoxiaZhihu" value="PREVIEW" />
-            <entry key="$USER_HOME$/workspace/oschina/CityManager" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/vipabc/Android-Core" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/vipabc/AndroidModuleDemo" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/vipabc/AndroidWidget" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/vipabc/Chopper" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/vipabc/Foundation" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/vipabc/JR-Mobile-Android-APP" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/vipabc/ShareModule" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/vipabc/SimpleModular" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/vipabc/SuperToolTips" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/vipabc/TutorChat-Android-APP" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/vipabc/Vaven" value="PREVIEW" />
           </map>
         </option>
       </component>
@@ -178,14 +185,14 @@
         <property name="GoToClass.includeLibraries" value="false" />
         <property name="GoToClass.toSaveIncludeLibraries" value="false" />
         <property name="GoToFile.includeJavaFiles" value="false" />
-        <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.sorted" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="settings.editor.selected.configurable" value="http.proxy" />
         <property name="android.project.structure.last.selected" value="SDK Location" />
         <property name="android.project.structure.proportion" value="0.15" />
-        <property name="android.sdk.path" value="$USER_HOME$/Documents/dev/android_sdk" />
         <property name="recentsLimit" value="5" />
-        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+        <property name="android.sdk.path" value="$USER_HOME$/dev/AndroidSdk" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
