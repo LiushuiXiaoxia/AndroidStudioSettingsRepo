@@ -23,10 +23,6 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="ContextHelp" />
-  <action id="ConvertJavaToKotlin">
-    <keyboard-shortcut first-keystroke="shift meta alt k" />
-    <keyboard-shortcut first-keystroke="ctrl k" />
-  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
@@ -76,6 +72,7 @@
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
   <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift meta slash" />
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
   <action id="SwitchApply">
