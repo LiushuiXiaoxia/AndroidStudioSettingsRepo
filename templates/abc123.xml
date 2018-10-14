@@ -3,11 +3,7 @@
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
     <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="GROOVY" value="true" />
       <option name="JAVA_CODE" value="true" />
-      <option name="KOTLIN" value="true" />
-      <option name="c" value="true" />
-      <option name="cpp" value="true" />
     </context>
   </template>
   <template name="dlogi" value="DebugLogger.i(&quot;$MSG$ = &quot; + $MSG$);" description="DebugLogger.i" toReformat="false" toShortenFQNames="true">
@@ -62,6 +58,7 @@
     <context>
       <option name="GROOVY" value="true" />
       <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
       <option name="c" value="true" />
       <option name="cpp" value="true" />
     </context>
