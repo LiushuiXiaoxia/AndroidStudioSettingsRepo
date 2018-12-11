@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'SSCG_APP'" />
-    <option name="defaultScopeName" value="Project 'SSCG_APP'" />
-    <option name="SEARCH_SCOPE" value="Project 'SSCG_APP'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -11,7 +13,8 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.jar</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
