@@ -1,0 +1,73 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/vipabc/VJR-Android-Pad/base/src/main/java/com/vipabc/android/vjr/pad/base/biz/BaseDataHelper.java" timestamp="1543809781501">
+        <mark key="'" line="51" column="21" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="^" line="39" column="26" />
+        <mark key="." line="30" column="8" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="40" column="25" filename="$USER_HOME$/workspace/vipabc/VJR-Android-Pad/base/src/main/java/com/vipabc/android/vjr/pad/base/biz/BaseDataHelper.java" />
+      <jump line="51" column="21" filename="$USER_HOME$/workspace/vipabc/VJR-Android-Pad/base/src/main/java/com/vipabc/android/vjr/pad/base/biz/BaseDataHelper.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>r</text>
+      </register>
+      <register name="-" type="4">
+        <text>r</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29yZUluZm87Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29yZUluZm87Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29yZUluZm87Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name=":" type="4">
+        <text>d3</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>d3</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
