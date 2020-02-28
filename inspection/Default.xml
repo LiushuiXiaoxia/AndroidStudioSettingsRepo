@@ -1,5 +1,0 @@
-<inspections profile_name="Default" version="1.0">
-  <option name="myName" value="Default" />
-  <inspection_tool class="ButterKnifeInjectNotCalled" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="ButterKnifeNoViewWithId" enabled="false" level="WARNING" enabled_by_default="false" />
-</inspections>
