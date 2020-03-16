@@ -4,5 +4,6 @@
     <notification groupId="Gradle Build (Balloon)" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="JDK Location different to JAVA_HOME" displayType="NONE" shouldLog="false" />
+    <notification groupId="SQLite Support" shouldLog="false" />
   </component>
 </application>
