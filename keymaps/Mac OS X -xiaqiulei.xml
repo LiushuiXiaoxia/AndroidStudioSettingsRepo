@@ -53,6 +53,9 @@
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
