@@ -27,6 +27,9 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="120" />
+  <DartCodeStyleSettings>
+    <option name="DELEGATE_TO_DARTFMT" value="false" />
+  </DartCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
