@@ -3,6 +3,7 @@
     <option name="contrastMode" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="isContrastMode" value="true" />
+    <option name="useMaterialFont2" value="true" />
     <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-aae2b63:1787d0a85a7:-8000" />
