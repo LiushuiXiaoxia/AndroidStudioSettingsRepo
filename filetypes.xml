@@ -9,7 +9,6 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".source" type="PLAIN_TEXT" />
       <mapping ext="bs" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
