@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -9,6 +9,8 @@
       <mapping pattern="THIRD" type="PLAIN_TEXT" />
       <mapping ext="bs" type="PLAIN_TEXT" />
       <mapping pattern="hubw" type="Shell Script" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
