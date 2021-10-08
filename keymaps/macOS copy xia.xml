@@ -3,8 +3,16 @@
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="Git.Rename.Local.Branch">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -18,9 +26,12 @@
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
