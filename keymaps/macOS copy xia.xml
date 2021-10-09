@@ -13,6 +13,9 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="Git.Rename.Local.Branch">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -26,7 +29,12 @@
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="RunClass" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.Run" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -40,4 +48,5 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
+  <action id="runShellFileAction" />
 </keymap>
