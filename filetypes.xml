@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="babelfile" type="AUTO_DETECTED" />
       <mapping pattern="gwRemote" type="AUTO_DETECTED" />
+      <mapping pattern="main_xia" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="db" type="Native" />
