@@ -12,6 +12,7 @@
       <mapping pattern="THIRD" type="PLAIN_TEXT" />
       <mapping pattern=".packages" type="PLAIN_TEXT" />
       <mapping ext="bs" type="PLAIN_TEXT" />
+      <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping pattern="hubw" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
