@@ -1,4 +1,5 @@
 <keymap version="1" name="macOS copy xia" parent="Mac OS X 10.5+">
+  <action id="Android.CleanRun" />
   <action id="Arrangement.Rule.Edit" />
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -26,14 +27,19 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="GotoNextError" />
+  <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="Replace" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunClass" />
   <action id="RunDashboard.CopyConfiguration" />
