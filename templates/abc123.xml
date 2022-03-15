@@ -73,7 +73,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="loggg" value=" private val log:org.slf4j.Logger = org.slf4j.LoggerFactory.getLogger(javaClass)" toReformat="false" toShortenFQNames="true">
+  <template name="loggg" value=" private val log:org.slf4j.Logger = org.slf4j.LoggerFactory.getLogger(javaClass)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
