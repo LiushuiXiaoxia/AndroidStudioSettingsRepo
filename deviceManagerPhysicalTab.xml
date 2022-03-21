@@ -67,7 +67,41 @@
             <value value="10.23.255.111:31959" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-20T16:01:23.542705Z" />
+        <name value="vivo V1955A" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.23.255.111:40214" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-20T18:02:01.847268Z" />
+        <name value="Google Pixel 4" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.23.255.111:23313" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.23.255.111:54956" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-21T06:40:29.836165Z" />
         <name value="vivo V1955A" />
         <target value="Android 11.0" />
         <api value="30" />
