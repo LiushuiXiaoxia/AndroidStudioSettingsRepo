@@ -15,7 +15,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Tool_My Tools_ohtml" is_group="true" action_type="1" position="19">
+    <group value="Tool_My Tools_ohtml" is_action="true" action_type="1" position="19">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />

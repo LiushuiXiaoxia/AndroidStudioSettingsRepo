@@ -27,6 +27,16 @@
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="BatchConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
+                    </value>
+                  </entry>
+                  <entry key="Cloud Toolkit Multirun">
+                    <value>
+                      <FeaturePluginData displayName="Cloud Toolkit Multirun" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
                   <entry key="ComposePreviewRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Compose Preview" pluginName="Design Tools" pluginId="com.android.tools.design" bundled="true" />
@@ -35,6 +45,21 @@
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="DEPLOY_ACS_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Deploy to Registry / Kubernetes" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
+                  <entry key="DEPLOY_CLOUD_APP_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Deploy to Mini Program" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
+                  <entry key="DEPLOY_HOST_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Deploy to Host" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
                     </value>
                   </entry>
                   <entry key="DartCommandLineRunConfigurationType">
@@ -55,6 +80,11 @@
                   <entry key="DartWebdevConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Dart Web" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="ECS_RUN_CONFIGRATION">
+                    <value>
+                      <FeaturePluginData displayName="ECS on Alibaba Cloud" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
                     </value>
                   </entry>
                   <entry key="FlutterBazelRunConfigurationType">
