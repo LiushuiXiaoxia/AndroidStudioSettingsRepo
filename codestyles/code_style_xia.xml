@@ -26,7 +26,7 @@
       <emptyLine />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="120" />
+  <option name="RIGHT_MARGIN" value="150" />
   <DartCodeStyleSettings>
     <option name="DELEGATE_TO_DARTFMT" value="false" />
   </DartCodeStyleSettings>
@@ -60,7 +60,6 @@
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="2" />
     <option name="XML_TEXT_WRAP" value="0" />
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="JSON">
     <indentOptions>
