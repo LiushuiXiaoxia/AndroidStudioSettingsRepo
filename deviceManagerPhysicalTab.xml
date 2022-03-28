@@ -106,6 +106,42 @@
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.23.255.111:49065" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-28T04:13:04.092980Z" />
+        <name value="OPPO OPPO R11s" />
+        <target value="Android 8.1" />
+        <api value="27" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.23.255.111:54654" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-28T04:15:05.302004Z" />
+        <name value="samsung SM-N970U1" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.23.255.111:57399" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-28T04:15:46.224531Z" />
+        <name value="HUAWEI VOG-AL00" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
